@@ -1,7 +1,7 @@
 {
   "name": "node-unificontroller",
   "preferGlobal": false,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Rene Klootwijk <rene@klootwijk.org>",
   "description": "Module to monitor the Unifi controller",
   "repository": {
